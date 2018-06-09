@@ -1,0 +1,2 @@
+# rencoin
+Privacy focused cryptocurrency
